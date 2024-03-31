@@ -1,9 +1,9 @@
 # SAiDL-Spring-Assignment-2024
 
 I have attempted 3 out of the 5 given tasks. 
-## Pruning and Sparcity
+- Pruning and Sparcity
 See Pruning&Sparcity dir
-## Graph Neural Networks
+- Graph Neural Networks
 See GraphNeuralNetwords dir
-## Natural Language Processing
+- Natural Language Processing
 See NaturalLanguageProcessing dir
