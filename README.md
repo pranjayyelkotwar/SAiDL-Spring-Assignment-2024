@@ -18,4 +18,4 @@ See `GraphNeuralNetworks` directory:
 
 See `NaturalLanguageProcessing` directory:
 - `dataloading.ipynb` contains code to download dataset and then put it in text files for my use.
-- `modelx.ipynb` contains various iterations of my model.
+- `modelx.ipynb` represents various iterations of my model.
