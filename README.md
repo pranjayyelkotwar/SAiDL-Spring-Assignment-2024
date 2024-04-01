@@ -5,7 +5,7 @@ I have attempted 3 out of the 5 given tasks. Please see the SAiDl Induction Assi
 #### Pruning and Sparcity
 
 See Pruning&Sparcity dir
-VGGModel.ipynb contains the code to build and train a simple VGG Model
+<mark>VGGModel.ipynb<mark> contains the code to build and train a simple VGG Model
 PruningAndSparcity.ipynb contains the code to prune a dense VGG Model
 
 #### Graph Neural Networks
